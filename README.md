@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Siddhi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE-AIML%20Student%20%7C%20Building%20at%20the%20intersection%20of%20AI%20%26%20Psychology&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE-AIML+%40+MIT+Academy+of+Engineering%2C+Pune;Exploring+Affective+Computing+%26+Behavioral+AI;RAG+%7C+LLMs+%7C+Applied+ML+%7C+HCI;Currently+building+towards+a+paid+ML+internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE-AIML+%40+MIT+Academy+of+Engineering%2C+Pune;Exploring+Affective+Computing+%26+Behavioral+AI;RAG+%7C+LLMs+%7C+Applied+ML+%7C+HCI" alt="Typing SVG" />
 
 <br/>
 
@@ -30,8 +30,7 @@ communities:
   - AIEEE Chapter
   - S4DS
 currently_learning:
-  - French (DELF A1)
-goal: "Landing a paid AI/ML internship by end of second year 🎯"
+  - French (DELF A1)"
 ```
 
 ---
